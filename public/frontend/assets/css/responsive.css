@@ -1,0 +1,271 @@
+@media screen and (max-width: 991px) {
+	.cart-wrap .apply-btn{display: none;}
+	.mean-container a.meanmenu-reveal {top: -46px;}
+	.header-search{margin: 0; position: relative; top: 20px;}
+	.header-bottom{padding: 5px 0;}
+	.header-search .search-content{top: 48px;}
+	.sticky-bar.stick{display: none;}
+	.about-us{padding: 20px 0;}
+	.about-content h2{font-size: 28px; line-height: 38px; padding: 0;}
+	.about-content .mb-30{margin: 0 0 0 0;}
+	.about-content .mt-45{margin: 0 0 0 0;}
+	.about-content p{padding: 15px 0 20px 0;}
+	.sub-how-apply{padding: 0 0 20px 0;}
+	.main-title h2{font-size: 28px; line-height: 42px;}
+	.main-title p{font-size: 14px;}
+	.perfect-course{padding: 25px 0;}
+	.title-mb{padding: 0 0 30px 0;}
+	.perfect-course-btn{margin: 0 0 0 0;}
+	.sub-services-bg-mt{padding: 25px 0;}
+	.sub-services-box p{min-height: auto;}
+	.sub-services-box p{font-size: 14px; padding: 15px 0 0 0;}
+	.about-img img{margin: 0 0 15px 0;}
+	.about-content p{font-size: 14px;}
+	.default-btn{padding: 14px 30px;}
+	.perfect-course-btn a{padding: 14px 30px;}
+	.wm-banner-addswrap{margin: 0 0 30px 0;}
+	.testimonials-area{padding: 25px 0;}
+	.sub-background{padding: 25px 0;}
+	.sub-que-study-bg{top: 0;}
+	.sub-que-study-text{text-align: center;}
+	.sub-que-study-text a{margin: 15px 0 0 0;}
+	.footer-top.pt-130{padding-top: 30px;}
+	.footer-area .pb-80{padding-bottom: 0;}
+	.company-text{justify-content: center; padding: 5px 0 0 0;}
+	.footer-bottom{padding: 10px 0 0 0;}
+	.single-blog .blog-content-wrap .blog-content h4{font-size: 16px;}
+	.single-blog .blog-content-wrap .blog-content p{font-size: 14px; line-height: 22px;}
+	.single-blog{margin: 0 0 15px 0;}
+	.footer-area .mb-40{margin-bottom: 20px;}
+	.single-count{border-right: none;}
+	.achievement-area{padding: 30px 0 0 0;}
+	.count-content{padding: 0 0 30px 0;}
+	.single-count .count-content h2{font-size: 32px;}
+	.count-content p{font-size: 32px;}
+	.single-count .count-content span{font-size: 14px;}
+	.breadcrumb-top{padding: 40px 0;}
+	.breadcrumb-top h2{font-size: 28px; margin: 0 0 6px 0;}
+	.inner-bread-text ul li a{font-size: 14px;}
+	main{padding: 25px 0 20px 0;}
+	.sub-contact-unt p{font-size: 14px; line-height: 24px; margin: 0 0 20px 0;}
+	.sub-uns-bg h5{font-size: 18px; margin: 0 0 10px 0;}
+	.sub-uns-bg{padding: 15px; margin: 0 0 15px 0;}
+	.sub-uns-contant img{margin: 0 0 15px 0;}
+	.sub-uns-contant p{font-size: 14px; line-height: 24px; padding: 0 0 0 0;}
+	.sub-inner-mt-mb {padding: 0 0 15px 0;}
+	.sub-agent-content{margin: 0 0 15px 0; padding: 10px;}
+	.sub-serv-agent{padding: 20px 0 30px 0;}
+	.ab-agent-bg{margin: 0 0 0 0; padding: 20px 0 0 0;}
+	.ab-agent-info img{display: none;}
+	.ab-agent-info h5{font-size: 16px; line-height: 26px; padding: 0 0 10px 0;}
+	.ab-agent-info p{font-size: 14px;}
+	.sub-agent-text-bottom p{font-size: 16px; line-height: 26px;}
+	.ab-agent-info{display: inline-block; text-align: center;}
+	.inner-bread-text ul li span{font-size: 14px;}
+	.sub-tream-content h2{font-size: 18px; line-height: 24px;}
+	.sub-tream-content p{font-size: 14px;}
+	.about-text-mt p{padding: 10px 0 0 0;}
+	.about-content-comp h5{font-size: 18px; line-height: 28px; padding: 20px 0;}
+	.about-text-secnd-mt{margin: 0;}
+	.inner-title-mt{padding: 40px 0 10px 0;}
+	.about-text-secnd-mt p{padding: 10px 0 0 0;}
+	.sub-mission-mt{padding: 25px 0 0 0;}
+	.sub-mission-box{margin: 0 0 20px 0;}
+	.sub-mission-box h5{font-size: 22px;}
+	.sub-mission-box p{font-size: 14px; line-height: 26px;}
+	.agent-title-mt{padding: 20px 0 0 0;}
+	.sub-team-found-mt{margin: 20px 0 0 0;}
+	.sub-team-box p{font-size: 14px;}
+	.sub-team-box a{padding: 0 0 5px 0;}
+	.sub-team-box{padding: 30px 15px 15px 15px;}
+	.sub-study-text h4{font-size: 20px; padding: 15px 0 10px 0;}
+	.sub-study-text p{font-size: 14px; padding: 0 0 5px 0;}
+	.sub-study-white-bg{padding: 30px 10px 15px 10px;}
+	.sub-study-light-bg{padding: 30px 10px 15px 10px;}
+	.sub-study-white-bg{margin: 15px 0 15px 0;}
+	.sub-study-top01 img{top: 0;}
+	.sub-study-top02 img{top: 0;}
+	.study-ab-btn a{width: 40%;}
+	.study-ab-btn{padding: 30px 0 0 0;}
+	.sub-study-abroad .login-register-tab-list a h4{padding: 10px 5px; font-size: 14px;}
+	.sub-study-abroad .login-register-tab-list a{width: 30%; margin: 0 0 10px 0;}
+	.sub-study-brd-ft{border-radius: 0;}
+	.sub-study-brd-lt{border-radius: 0;}
+	.login-register-wrapper .login-register-tab-list{margin-bottom: 20px;}
+	.sub-schol-img-text img{display: none;}
+	.sub-schol-box-bg{margin: 20px 0 0 0;}
+	.sub-schol-box-bg{padding: 20px 0;}
+	.sub-schol-text h3{font-size: 22px;}
+	.sub-scholarship-content p{font-size: 14px;}
+	.sub-schol-btn{text-align: center;}
+	.sub-schol-text{padding: 0 0 0 0;}
+	.sub-universities-filter{padding: 0 0 15px 0;}
+	.sub-course-appl-bg{margin: 0 0 15px 0;}
+	.sub-course-unt-title h6{font-size: 16px;}
+	.sub-course-country{font-size: 14px;}
+	.sub-course-appl-text p{font-size: 14px;}
+	.sub-tution-text h6{font-size: 14px;}
+	.sub-tution-text p{font-size: 16px;}
+	.sub-show-more a{font-size: 16px;}
+	.course-tab-content{padding: 15px;}
+	.blog-details-top .blog-details-content-wrap h1{font-size: 18px; line-height: 26px;}
+	.blog-details-top .blog-details-content-wrap p{font-size: 14px;}
+	.blog-share-tags{margin-top: 20px;}
+	.event-description h3{font-size: 18px; line-height: 30px;}
+	.event-description img{margin: 0 0 15px 0;}
+	.event-description p{font-size: 14px;}
+	.seat-book-wrap{margin: 10px 0 0 0; padding: 42px 30px 30px;}
+	.location-area{margin: 20px 0 20px 0;}
+	.pro-pagination-mt-mb{margin: 0 0 20px 0;}
+	.sub-course-deta-title h2{font-size: 26px; line-height: 38px;}
+	.sub-univer-content p{font-size: 14px; line-height: 24px;}
+	.sub-univer-content h3{font-size: 20px;}
+	.sub-univer-content ul li{font-size: 14px; line-height: 24px;}
+	.sub-univer-content img{margin: 15px 0 0 0;}
+	.sub-univer-btn{width: 100%;}
+	.sub-univer-btn a{width: 100%; margin: 0 0 15px 0;}
+	.sub-study-text img{margin: 15px 0 0 0;}
+	.sub-univer-icon{padding: 20px 0 20px 0;}
+	.sub-univer-icon ul li a{width: 40px; height: 40px; font-size: 18px;}
+	.sub-study-light-bg{padding: 10px 10px 15px 10px;}
+	.sub-univer-videos{padding: 20px 0 10px 0;}
+	.student-services-tab .login-register-tab-list a{width: 100%;}
+	.student-services-tab{padding: 15px;}
+	.student-services-content h5{font-size: 18px;}
+	.student-serv-accordinon-box #faq .card .card-header .btn-header-link{font-size: 14px;}
+	.student-services-white-box p{font-size: 13px;}
+	.student-services-white-box ul li{font-size: 13px;}
+	.sub-apply-md-mt{padding: 30px 0 0 0;}
+	.sub-study-text a{width: 100%;}
+	.sub-apply-box a{height: auto;}
+	.contact-form .contact-title h2{font-size: 20px; margin: 0 0 15px 0;}
+	.contact-form-bg h6{font-size: 18px;}
+	.contact-form-info span{font-size: 14px;}
+	.contact-form{margin-top: 0px;}
+	.contact-form-mt{padding: 20px 0 0 0;}
+	.contact-form-bg{padding: 30px 0 15px 20px;}
+}
+
+@media screen and (max-width: 767px) {
+	.header-search{top: 15px;}
+	.mean-container a.meanmenu-reveal{top: -42px;}
+	.header-search .search-content form input{width: 280px;}
+	.about-content p{padding: 10px 0 0px 0;}
+	.about-content h2{font-size: 22px; line-height: 32px;}
+	.main-title h2{font-size: 24px;}
+	.sub-services-box a{font-size: 16px;}
+	.sub-services-box p{padding: 10px 0 0 0; line-height: 28px;}
+	.eduniversity-card__univname h5{font-size: 16px;}
+	.sub-que-study-text h3{font-size: 22px;}
+	.sub-que-study-text p{font-size: 14px;}
+	.footer-widget .footer-title h4{font-size: 16px; margin: 0 0 25px;}
+	.footer-widget .footer-list ul li a{font-size: 14px;}
+	.sub-que-study-bg{padding: 15px;}
+	.footer-menu-team{display: flex; align-content: center; justify-content: center;}
+	.about-content .about-btn a.default-btn{margin: 0 0 15px 0;}
+	.login-form-container p{font-size: 14px; text-align: center;}
+	.login-form-container h5{font-size: 18px; padding: 0 0 15px 0;}
+	.login-register-wrapper .login-form-container {padding: 20px 15px;}
+	.login-register-wrapper .login-form-container .login-register-form form .button-box button{width: 100%;}
+	.sub-serv-agent .default-btn{width: 100%;}
+	.login-toggle-btn{margin: 0 0 20px 0;}
+	.login-register-wrapper .login-register-tab-list a h4{font-size: 20px;}
+	.login-register-wrapper .login-register-tab-list{margin-bottom: 25px;}
+	.inner-title-mt {padding: 20px 0 10px 0;}
+	.sub-tem-mb{margin: 0;}
+	.sub-team-content .modal-title{font-size: 18px;}
+	.sub-team-content .modal-title p{font-size: 14px;}
+	.sub-team-content .modal-body p{font-size: 14px; margin: 0 0 10px 0;}
+	.admissions-popup-video .modal-body iframe{height: 250px;}
+	.study-ab-btn a{width: 100%; margin: 0 0 10px 0;}
+	.sub-study-abroad .login-register-tab-list a.active h4{font-size: 14px;}
+	.login-register-wrapper .login-register-tab-list a h4{font-size: 14px;}
+	.sub-study-abroad .login-register-tab-list a{width: 40%;}
+	.sub-rank-text p{font-size: 14px;}
+	.sub-scholarship-title h5{font-size: 18px; line-height: 30px;}
+	.sub-scholarship-title p{font-size: 14px; padding: 0;}
+	.sub-scholarship-title h6{font-size: 18px; line-height: 30px; padding:0;}
+	.sub-scholarship-content p{font-size: 14px; margin: 0 0 10px 0;}
+	.sub-schol-btn a{font-size: 14px; padding: 15px;}
+	.sub-scholarship-bg{padding: 20px;}
+	.sub-scholarship-title h5{font-size: 18px;}
+	.sub-schol-text h3{font-size: 18px;}
+	.sub-course-unt-title{margin: 10px 0 0 0;}
+	.sub-course-appl-text{padding: 10px 0;}
+	.course-tab-list a{width: 50%;}
+	.course-tab-content .col-lg-6{padding: 0;}
+	.pro-pagination-style.mt-25{margin: 10px 0;}
+	.sub-course-deta-title h2{font-size: 20px; line-height: 28px; padding: 30px 0 15px 0;}
+	.sub-univer-content h3 {font-size: 18px; padding: 10px 0;}
+	.sub-univer-videos {padding: 0 0 10px 0;}
+	.student-services-tab .login-register-tab-list a{width: 100%;}
+}
+
+@media screen and (max-width: 668px) {
+	.breadcrumb-top h2{font-size: 20px;}	
+	.breadcrumb-top h2{margin: 0 0 0 0;}
+	.breadcrumb-top{padding: 30px 0 40px 0 !important;}
+	.sub-serv-agent{padding: 20px 0 20px 0;}
+	.sub-agent-text-bottom p {font-size: 14px; line-height: 22px;}
+	.login-register-area{margin: 0 0 10px 0;}
+	.sub-study-abroad .login-register-tab-list a{width: 48%;}
+	.sub-study-light-bg{padding: 10px 10px 15px 10px;}
+	.sub-universities-filter .sidebar-title h4{font-size: 18px;}
+	.sidebar-title-two h5{font-size: 16px;}
+	.course-tab-list a h4{font-size: 14px;}
+	.course-tab-list a{padding: 0 10px;}
+	.sub-course-unt-title h6{line-height: 22px;}
+	.blog-details-top .blog-details-content-wrap h1{font-size: 16px;}
+	.blog-details-top .blog-details-content-wrap{padding: 34px 15px 20px;}
+	.related-title h3{font-size: 20px;}
+	.sidebar-style{margin-top: 10px;}
+	.recent-post-list ul li a{font-size: 14px;}
+	.category-list ul li a{font-size: 14px;}
+	.event-description h3{font-size: 16px; line-height: 26px; margin: 0 0 10px 0;}
+	.event-description .mb-45{margin-bottom: 15px;}
+	.description-date-social .description-date-time .description-meta-wrap .description-meta span{font-size: 14px;}
+	.seat-book-wrap .seat-book-title h3{font-size: 18px;}
+	.seat-book-wrap .seat-book-title p{font-size: 14px;}
+	.seat-book-wrap{padding: 20px 15px;}
+	.seat-book-wrap .seat-book-form form input{margin: 0 0 15px 0;}
+	.seat-book-wrap .seat-book-form form select{margin: 0 0 15px 0;}
+	.seat-book-wrap .seat-book-form form button{padding: 12px 30px 12px;}
+	.student-services-tab .login-register-tab-list a{width: 100%;}
+
+}
+
+@media screen and (max-width: 575px) {
+	.header-search{top: 16px;}
+	.header-search{top: 20px;}
+}
+
+@media screen and (max-width: 428px) {
+	.header-search{top: 8px;}
+	.mean-container a.meanmenu-reveal{top: -34px;}
+	.header-top{padding: 10px 0;}
+	.header-search .search-content{top: 39px;}
+	.about-content h2{font-size: 18px; line-height: 26px;}
+	.main-title h2{font-size: 18px; line-height: 30px;}
+	.about-us{padding: 20px 0 0 0;}
+	.perfect-course-box{margin: 0 0 15px 0;}
+	.sub-services-box{margin: 0 0 15px 0;}
+	.single-count .count-content h2{margin: 0 0 0 0;}
+	.wm-banner-addswrap{margin: 0 0 15px 0;}
+	.testimonial{height: 270px;}
+	.testimonial .description{font-size: 14px; line-height: 24px;}
+	.owl-theme .owl-controls{bottom: -36px;}
+	.sub-que-study-text h3{font-size: 16px; padding: 0 0 4px 0;}
+	.sub-que-study-text a{padding: 8px 25px;}
+	main{padding: 25px 0 10px 0;}
+	.sub-scholarship-title h5{line-height: 24px;}
+	.sub-schol-text h3{line-height: 24px;}
+	.student-services-tab .login-register-tab-list a{width: 100%;}
+	.student-serv-accordinon-box #faq .card .card-header .btn-header-link{font-size: 11px;}
+}
+
+@media screen and (max-width: 375px) {
+	.header-search{top: 4px;}
+	.mean-container a.meanmenu-reveal{top: -34px;}
+	.footer-menu-team ul li{padding: 0 5px;}
+	.student-serv-accordinon-box #faq .card .card-header .btn-header-link{font-size: 10px;}
+}
